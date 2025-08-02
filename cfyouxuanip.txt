@@ -1,4 +1,12 @@
 114.34.106.124:10443#台湾-新台北市
+proxyip.hk.cmliussss.net:443#香港线路
+bj.fgfw.eu.org:443#北京优化
+ali.055500.xyz:443#阿里云方向
+oss-v2-cdn.fuukir.cn:443#内容分发专用
+proxyip.hk.fxxk.dedyn.io:443#动态线路
+yxip.now.cc:443#高速共享IP
+supplierportal.qad.com:443#企业级高速CDN
+ooly.cc:443#科技站点优化
 13.230.34.30:443#日本东京都-反代1
 103.232.213.117:8080#日本东京都-反代2
 8.209.220.50:21273#日本东京都-反代3
